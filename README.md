@@ -1,6 +1,6 @@
 # bu_gun_ne_yiyecegiz
 
-A new Flutter project.
+uygulamaya önceden kaysettiğim mçorbe yemke ve tatlı çeşitleri ile rastgle menü oluşturama kolaylığı saplayana uygulama yaptım.
 
 ## Getting Started
 
